@@ -1,24 +1,10 @@
-# Program title 
+# SousChef 
 
 ## Description
 
-TODO: Add program description.
-
-## Code Example
-
-```
-const todo = "Write some code here."
-```
-
-## Motivation
-
-This was written as a lab assignment for Code Fellows 401 class.
-
-## API Reference
-
-### Put in descriptions...
-
-### ...of API calls if applicable
+SousChef (assistant to the head or "Executive" chef) is a recipe database to streamline storage
+and retrieval of your favorite recipes, freeing more time for you to spend on cooking your favorite
+meals!
 
 ## Tests
 
