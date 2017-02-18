@@ -1,0 +1,31 @@
+{
+  "name": "sous-chef",
+  "version": "0.1.0",
+  "description": "Program description",
+  "main": "sous-chef.js",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "mocha",
+    "build": "npm install",
+    "dev": "npm install --save-dev",
+    "watch": "npm run test -- -w",
+    "start": "node ./lib/sous-chef.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgreenwood/sous-chef.git"
+  },
+  "author": "@markgreenwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markgreenwood/sous-chef/issues"
+  },
+  "homepage": "https://github.com/markgreenwood/sous-chef#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.8.1",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {}
+}
