@@ -2,13 +2,14 @@
 
 ## Description
 
-SousChef (assistant to the head or "Executive" chef) is a recipe database to streamline storage
-and retrieval of your favorite recipes, freeing more time for you to spend on cooking your favorite
-meals!
+SousChef (assistant to the head or "executive" chef) is a recipe database to streamline storage
+and retrieval of your favorite recipes, enabling you to spend more time cooking your favorite
+meals instead of planning them!
 
 ## Tests
 
-The accompanying test suite can be run using the 'npm test' command.
+The accompanying test suites can be run using the 'npm run test' (unit tests) and 'npm run e2e' 
+(end-to-end or integration tests) command.
 
 ## Contributors
 

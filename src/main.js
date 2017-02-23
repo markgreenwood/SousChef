@@ -1,4 +1,5 @@
 import angular from 'angular';
+import './scss/main.scss';
 
 const app = angular.module('sousChef', []);
 
